@@ -1,2 +1,10 @@
-# goblin-cli
-Goblin CLI — command-line remote for the Goblin ecosystem. Run simple pilot commands to inspect wallet state, try bot flows, and poke services from Dev/Stage.
+# Goblin CLI — Command-Line Remote
+Not an app, a money creature.
+
+The CLI is a developer remote for the Goblin ecosystem: poke services, try bot flows, inspect state.
+
+**Bucket:** Off-Chain Smarts (platform-agnostic)  
+**Status:** PILOT (DEV)
+
+- Overview → /docs/OVERVIEW.md
+- Usage (pilot) → /docs/USAGE.md
